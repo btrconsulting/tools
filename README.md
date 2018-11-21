@@ -37,5 +37,6 @@
 
 
 colaboracion:
+[![Twitter](https://img.shields.io/badge/Lucas Galeano-@lucasgaleano_-blue.svg)](https://twitter.com)
   @Macle0d
   @LucasGaleano
