@@ -1,6 +1,6 @@
 # btr consulting tools
 
-https://badge.fury.io/{{programming_language:js
+https://david-dm.org/{{username}}/{{project_name}}.svg
 
 ## herramientas disponibles
 - Fuerza bruta
