@@ -1,4 +1,5 @@
-# btr consulting tools
+# Btr Consulting Tools
+[![Build Status](https://travis-ci.org/btrconsulting/tools.svg?branch=master)](https://travis-ci.org/btrconsulting/tools)
 
 ## herramientas disponibles
 - Fuerza bruta
