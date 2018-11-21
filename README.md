@@ -1,5 +1,5 @@
 # Btr Consulting Tools
-[![Build Status](https://travis-ci.org/btrconsulting/tools.svg?branch=master)](https://travis-ci.org/btrconsulting/tools)
+[![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
 
 ## herramientas disponibles
 - Fuerza bruta
