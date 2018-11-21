@@ -5,34 +5,34 @@
 
 
 ## herramientas disponibles
-- Enumeration
+- Enumeracion
   - **Gobuster:** Fuerza bruta a directorios de urls
 
-- Discovery
+- Descubrimiento
   - **The harvester**
-  - **sublist3r**
-  - **ctfr**
+  - **Sublist3r**
+  - **Ctfr**
 
 - Scanners
-  - **wpscan:** Scanner de wordpress
-  - **joomscan:** Scanner de Joombla
+  - **Wpscan:** Scanner de wordpress
+  - **Joomscan:** Scanner de Joombla
 
 - Reporte
-  - **webmap:** Reporte web de nmap
+  - **Webmap:** Reporte web de nmap
 
 - Post-Explotacion
-  - **laZagne**
+  - **LaZagne**
 
-- Auxiliares
-  - **docker**
-  - **pip3**
+- Auxiliaries
+  - **Docker**
+  - **Pip3**
 
 
 ## Como usar makefile
-- instalacion completa `make install all`
-- instalacion por herramienta `make install _herramienta_`
+instalacion completa `make install all`
+instalacion por herramienta `make install _herramienta_`
 
-## como usar webmap
+## Como usar webmap
 `docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap`
 
 
