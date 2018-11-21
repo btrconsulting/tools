@@ -1,5 +1,7 @@
 # Btr Consulting Tools
 [![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
+[![Twitter](https://img.shields.io/badge/twitter-@vortexau_-blue.svg)](https://twitter.com/vortexau)
+
 
 ## herramientas disponibles
 - Fuerza bruta
