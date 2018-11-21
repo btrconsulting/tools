@@ -29,7 +29,7 @@
 
 
 ## Como usar makefile
-instalacion completa `make install all`
+instalacion completa `make install all`<br/>
 instalacion por herramienta `make install _herramienta_`
 
 ## Como usar webmap
