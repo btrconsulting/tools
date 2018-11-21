@@ -1,10 +1,6 @@
-#btr consulting tools
+# btr consulting tools
 
-##Como usar makefile
-- instalacion completa 'make install all'
-- instalacion por herramienta 'make install _herramienta_'
-
-##herramientas disponibles
+## herramientas disponibles
 - Fuerza bruta
   - **Gobuster** Fuerza bruta a directorios de urls
 
@@ -27,13 +23,18 @@
  - **docker**
  - **pip3**
 
-#######docker##########
 
-docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap
+## Como usar makefile
+- instalacion completa 'make install all'
+- instalacion por herramienta 'make install _herramienta_'
+
+## como usar webmap
+
+'docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap'
 
 
 
 
-colaborarion:
+colaboracion:
   @Macle0d
   @LucasGaleano
