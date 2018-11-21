@@ -29,8 +29,8 @@
 
 
 ## Como usar makefile
-instalacion completa `make install all`<br/>
-instalacion por herramienta `make install _herramienta_`
+instalacion completa `sudo make all`<br/>
+instalacion por herramienta `sudo make install _herramienta_`
 
 ## Como usar webmap
 `docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap`
