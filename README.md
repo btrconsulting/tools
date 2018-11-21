@@ -23,7 +23,7 @@
 - Post-Explotacion
   - **LaZagne**
 
-- Auxiliaries
+- Auxiliares
   - **Docker**
   - **Pip3**
 
