@@ -39,6 +39,6 @@
 
 
 
-colaboracion:
-  <br/>@Macle0d
-  <br/>@LucasGaleano
+### Colaboracion:
+  <br/>![Twitter](https://img.shields.io/badge/lucas%20galeano-@lucasgaleano_-blue.svg)
+  <br/>![Twitter](https://img.shields.io/badge/omar%20peña-@macle0d_-blue.svg)
