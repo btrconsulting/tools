@@ -1,6 +1,6 @@
 # btr consulting tools
 
-https://david-dm.org/{{username}}/{{project_name}}.svg
+https://img.shields.io/badge/Lucas%20Galeano-%40LucasGaleano-brightgreen.svg
 
 ## herramientas disponibles
 - Fuerza bruta
