@@ -1,5 +1,8 @@
 
 
+#######makefile############
+instalar "make install all"
+
 #######docker##########
 
 docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap
