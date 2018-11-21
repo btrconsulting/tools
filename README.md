@@ -1,6 +1,6 @@
 # Btr Consulting Tools
 [![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
-(https://img.shields.io/badge/lucas%20galeano-@lucasgaleano_-blue.svg)
+![Twitter](https://img.shields.io/badge/lucas%20galeano-@lucasgaleano_-blue.svg)
 
 
 
