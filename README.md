@@ -37,6 +37,5 @@
 
 
 colaboracion:
-[![LucasGaleano @lucasgaleano](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
-  @Macle0d
-  @LucasGaleano
+  <enter>@Macle0d
+  <enter>@LucasGaleano
