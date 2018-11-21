@@ -37,5 +37,5 @@
 
 
 colaboracion:
-  <enter>@Macle0d
-  <enter>@LucasGaleano
+  <Enter>@Macle0d
+  <Enter>@LucasGaleano
