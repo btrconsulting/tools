@@ -1,12 +1,12 @@
-# Btr Consulting Tools
+# BTR Consulting Tools
 ![Twitter](https://img.shields.io/badge/Build-passing_-green.svg)
 [![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
 
 
 
 ## herramientas disponibles
-- Fuerza bruta
-  - **Gobuster** Fuerza bruta a directorios de urls
+- Enumeration
+  - **Gobuster:** Fuerza bruta a directorios de urls
 
 - Discovery
   - **The harvester**
@@ -14,16 +14,16 @@
   - **ctfr**
 
 - Scanners
-  - **wpscan**
-  - **joomscan**
+  - **wpscan:** Scanner de wordpress
+  - **joomscan:** Scanner de Joombla
 
 - Reporte
-  - **webmap**
+  - **webmap:** Reporte web de nmap
 
-- Explotacion
+- Post-Explotacion
   - **laZagne**
 
-- Auxiliario
+- Auxiliares
   - **docker**
   - **pip3**
 
@@ -33,7 +33,6 @@
 - instalacion por herramienta `make install _herramienta_`
 
 ## como usar webmap
-
 `docker run -d --name webmap -h webmap -p 8000:8000 -v /tmp/webmap:/opt/xml rev3rse/webmap`
 
 
