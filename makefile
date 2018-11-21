@@ -1,4 +1,4 @@
-htopall: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr
+all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr
 
 gobuster:
 	apt install -y gobuster
