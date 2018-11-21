@@ -1,7 +1,5 @@
 # btr consulting tools
 
-https://img.shields.io/badge/Lucas%20Galeano-%40LucasGaleano-brightgreen.svg
-
 ## herramientas disponibles
 - Fuerza bruta
   - **Gobuster** Fuerza bruta a directorios de urls
