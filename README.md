@@ -1,4 +1,5 @@
 # Btr Consulting Tools
+![Twitter](https://img.shields.io/badge/Build-passing_-green.svg)
 [![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
 
 
@@ -29,7 +30,7 @@
 
 ## Como usar makefile
 - instalacion completa `make install all`
-- instalacion por herramienta ´make install _herramienta_´
+- instalacion por herramienta `make install _herramienta_`
 
 ## como usar webmap
 
