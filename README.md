@@ -1,6 +1,6 @@
 # btr consulting tools
 
-[!Build Status]
+https://badge.fury.io/{{programming_language:js
 
 ## herramientas disponibles
 - Fuerza bruta
