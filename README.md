@@ -1,6 +1,5 @@
 # Btr Consulting Tools
 [![Python 3.4|3.5|3.6](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
-![Twitter](https://img.shields.io/badge/lucas%20galeano-@lucasgaleano_-blue.svg)
 
 
 
@@ -40,5 +39,8 @@
 
 
 ### Colaboracion:
-  <br/>![Twitter](https://img.shields.io/badge/lucas%20galeano-@lucasgaleano_-blue.svg)
-  <br/>![Twitter](https://img.shields.io/badge/omar%20peña-@macle0d_-blue.svg)
+  <br/>[![Twitter](https://img.shields.io/badge/Lucas%20Galeano-@lucasgaleano_-blue.svg)](https://github.com/lucasgaleano)
+  <br/>[![Twitter](https://img.shields.io/badge/Omar%20Peña-@macle0d_-blue.svg)](https://github.com/macle0d)
+  <br/>[![Twitter](https://img.shields.io/badge/Federico%20Galarza-@fede947_-blue.svg)](https://github.com/fede947)
+  <br/>[![Twitter](https://img.shields.io/badge/Santiago%20Scally-@fede947_-blue.svg)](https://github.com/santiScally)
+  <br/>![Twitter](https://img.shields.io/badge/Gustavo%20Silva-@fede947_-blue.svg)
