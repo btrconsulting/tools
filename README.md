@@ -37,6 +37,6 @@
 
 
 colaboracion:
-[![Twitter](https://img.shields.io/badge/Lucas Galeano-@lucasgaleano_-blue.svg)](https://twitter.com)
+[![LucasGaleano @lucasgaleano](https://img.shields.io/badge/python-3.4|3.5|3.6-brightgreen.svg)](https://www.python.org/)
   @Macle0d
   @LucasGaleano
