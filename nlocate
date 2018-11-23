@@ -1,0 +1,3 @@
+cowthink $1??! You are sick, twisted and perverted. I like that in a person.
+echo ""
+locate .nse | grep $1 | cut -d '/' -f 6 | cut -d '.' -f 1
