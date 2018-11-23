@@ -37,11 +37,9 @@ pip3:
 	apt install -y  python3-pip
 
 nlocate:
-	apt install cowthink
-	apt install fortune
-	chmod +x nlocate
-	sudo mv nlocate /usr/sbin/
+	mv -f  nlocate /usr/sbin/
 
 clean:
 	rm -rf LaZagne/
 	rm -rf ctfr/
+	rm -rf /usr/sbin/nlocate
