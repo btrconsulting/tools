@@ -37,7 +37,8 @@ pip3:
 	apt install -y  python3-pip
 
 nlocate:
-	sudo apt install cowthink
+	apt install cowthink
+	apt install fortune
 	chmod +x nlocate
 	sudo mv nlocate /usr/sbin/
 
