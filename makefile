@@ -1,4 +1,4 @@
-all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr
+all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr nlocate
 
 gobuster:
 	apt install -y gobuster
@@ -35,6 +35,11 @@ ctfr:
 
 pip3:
 	apt install -y  python3-pip
+
+nlocate:
+	sudo apt install cowthink
+	chmod +x nlocate
+	sudo mv nlocate /usr/sbin/
 
 clean:
 	rm -rf LaZagne/
