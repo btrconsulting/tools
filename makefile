@@ -38,8 +38,13 @@ pip3:
 
 nlocate:
 	mv -f  nlocate /usr/sbin/
+	strfile frasesSOC
+	mv -f frasesSOC /usr/share/games/fortunes/
+	mv -f frasesSOC.dat /usr/share/games/fortunes/
 
 clean:
 	rm -rf LaZagne/
 	rm -rf ctfr/
 	rm -rf /usr/sbin/nlocate
+
+.PHONY: nlocate
