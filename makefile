@@ -37,10 +37,10 @@ pip3:
 	apt install -y  python3-pip
 
 nlocate:
-	mv -f  nlocate /usr/sbin/
+	cp -f  nlocate /usr/sbin/
 	strfile frasesSOC
-	mv -f frasesSOC /usr/share/games/fortunes/
-	mv -f frasesSOC.dat /usr/share/games/fortunes/
+	cp -f frasesSOC /usr/share/games/fortunes/
+	cp -f frasesSOC.dat /usr/share/games/fortunes/
 
 clean:
 	rm -rf LaZagne/
