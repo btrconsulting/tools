@@ -1,3 +1,3 @@
-fortune /usr/share/games/fortunes/frasesSOC | sed 1s/^/"$1?? "/ | cowthink
+/usr/games/fortune /usr/share/games/fortunes/frasesSOC | sed 1s/^/"$1?? "/ | usr/games/cowthink
 echo ""
 locate .nse | grep $1 | cut -d '/' -f 6 | cut -d '.' -f 1
