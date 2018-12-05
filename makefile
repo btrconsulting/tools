@@ -43,7 +43,7 @@ nlocate:
 	cp -f frasesSOC /usr/share/games/fortunes/
 	cp -f frasesSOC.dat /usr/share/games/fortunes/
 
-ohmyreport:
+ohmyreport: pip3
 	rm -rf ohmyreport
 	git clone https://github.com/lucasgaleano/ohmyreport
 	pip3 install -r ohmyreport/requirements.txt
