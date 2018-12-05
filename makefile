@@ -42,9 +42,16 @@ nlocate:
 	cp -f frasesSOC /usr/share/games/fortunes/
 	cp -f frasesSOC.dat /usr/share/games/fortunes/
 
+ohmyreport:
+	git clone https://github.com/lucasgaleano/ohmyreport
+	sudo rm -rf /bin/ohmyreport-v1.0/
+	sudo mv -u ohmyreport/ /bin/ohmyreport-v1.0
+	sudo echo "/bin/ohmyreport-v*/ohmyreport $@" > /bin/ohmyreport
+	sudo chmod +x /bin/ohmyreport
+
 clean:
 	rm -rf LaZagne/
 	rm -rf ctfr/
 	rm -rf /usr/sbin/nlocate
 
-.PHONY: nlocate
+.PHONY: nlocate ohmyreport
