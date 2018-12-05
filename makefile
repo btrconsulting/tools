@@ -46,7 +46,7 @@ nlocate:
 ohmyreport:
 	git clone https://github.com/lucasgaleano/ohmyreport
 	sudo rm -rf /bin/ohmyreport-v1.0/
-	sudo mv -u ohmyreport/ /bin/ohmyreport-v1.0
+	sudo cp -f ohmyreport/ /bin/ohmyreport-v1.0
 	sudo echo "/bin/ohmyreport-v*/ohmyreport $@" > /bin/ohmyreport
 	sudo chmod +x /bin/ohmyreport
 
