@@ -19,6 +19,7 @@
 
 - Reporte
   - **Webmap:** Reporte web de nmap
+  - **Ohmyreport:** Reporte para nessus
 
 - Post-Explotacion
   - **LaZagne**
