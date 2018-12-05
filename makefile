@@ -37,6 +37,7 @@ pip3:
 	apt install -y  python3-pip
 
 nlocate:
+	apt install -y cowsay fortune-mod
 	cp -f  nlocate /usr/sbin/
 	strfile frasesSOC
 	cp -f frasesSOC /usr/share/games/fortunes/
