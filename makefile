@@ -1,4 +1,4 @@
-all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr nlocate
+all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr nlocate testssl
 
 gobuster:
 	apt install -y gobuster
@@ -21,6 +21,10 @@ lazagne:
 	cd LaZagne/
 	wget https://github.com/AlessandroZ/LaZagne/releases/download/2.4/laZagne.exe
 	cd ..
+
+testssl:
+	git clone --depth 1 https://github.com/drwetter/testssl.sh.git
+	
 
 theharvester:
 	apt install -y theharvester
