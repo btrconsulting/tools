@@ -1,4 +1,4 @@
-all: clean pip3 docker gobuster webmap joomscan wpscan lazagne ctfr nlocate testssl
+all: clean pip3 gobuster docker joomscan wpscan lazagne ctfr nlocate testssl theharvester sublist3r ohmyreport
 
 gobuster:
 	apt install -y gobuster
