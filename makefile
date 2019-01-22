@@ -50,11 +50,7 @@ nlocate:
 ohmyreport: pip3
 	rm -rf ohmyreport
 	git clone https://github.com/lucasgaleano/ohmyreport
-	pip3 install -r ohmyreport/requirements.txt
-	sudo rm -rf /bin/ohmyreport-v1.0/
-	sudo cp -rf ohmyreport/ /bin/ohmyreport-v1.0
-	sudo echo '/bin/ohmyreport-v*/ohmyreport $@' > /bin/ohmyreport
-	sudo chmod +x /bin/ohmyreport
+	cd ohmyreport && sudo make install
 
 clean:
 	rm -rf LaZagne/
